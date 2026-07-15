@@ -35,7 +35,6 @@ looking_for: SDE / Backend Developer roles
 ## ⚙️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,mysql,react,fastapi,git" />
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,mysql,react,fastapi,git,vscode&theme=dark" />
 
