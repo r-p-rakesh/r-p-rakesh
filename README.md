@@ -4,19 +4,15 @@
 <img src="https://komarev.com/ghpvc/?username=r-p-rakesh&label=Profile+Views&color=2E9EF7&style=flat" />
 </div>
 <br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/r-p-rakesh/r-p-rakesh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<br>
 ## 🧑‍💻 About Me
-```yaml
+yaml
 name: R P Rakesh
 role: Aspiring Backend Developer
 education: B.E. Information Science & Engineering, MVJ College of Engineering (2022–2026)
 currently_building: PizzaFlow — multi-restaurant food ordering platform
 focus: FastAPI · Java · System Design · Clean Architecture
 looking_for: SDE / Backend Developer roles
-```
+
 <br>
 ## ⚙️ Tech Stack
 <div align="center">
@@ -33,7 +29,7 @@ looking_for: SDE / Backend Developer roles
 ## 🚀 Featured Project
 <div align="center">
 ### [PizzaFlow — Food Ordering Platform](https://github.com/r-p-rakesh/ordering-system)
-`FastAPI` `MySQL` `SQLAlchemy` `JWT`
+FastAPI MySQL SQLAlchemy JWT
 Multi-restaurant food ordering backend built as a modular monolith — JWT auth with role-based access control, transactional order system with server-side price computation, commission-calculation engine using decimal arithmetic to avoid rounding errors.
 </div>
 <br>
@@ -42,3 +38,4 @@ Multi-restaurant food ordering backend built as a modular monolith — JWT auth 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-p-rakesh-774024261)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpr104209@gmail.com)
 </div>
+
